@@ -1,1 +1,1 @@
-worker: npm i && npm i @adiwajshing/baileys && node . --public
+worker: npm i && npm i @adiwajshing/baileys && npm i syntax-error && node . --public
